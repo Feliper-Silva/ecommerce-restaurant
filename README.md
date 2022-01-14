@@ -1,6 +1,6 @@
 # E-commerce Restaurante Pizza
 
-Web site feito com React.Js e personalizado com o styled.componets.
+Web site feito com React.Js e personalizado com o styled-componets.
 [Projeto Online](https://restaurant-pizza-feliper-silva.vercel.app/)
 
 ## Tecnologias:
