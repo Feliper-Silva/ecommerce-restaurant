@@ -1,6 +1,7 @@
 # E-commerce Restaurante Pizza
 
 Web site feito com React.Js e personalizado com o styled.componets.
+[Projeto Online](https://restaurant-pizza-feliper-silva.vercel.app/)
 
 ## Tecnologias:
 
@@ -14,7 +15,7 @@ git clone https://github.com/Feliper-Silva/ecommerce-restaurant.git
 
 ```
 
-Download dos components necessários:
+### Download dos components necessários:
 
 ```bash
 yarn
@@ -26,7 +27,7 @@ OR
 npm install
 
 ```
-
+### Inicializar:
 ```bash
 yarn start
 ```
