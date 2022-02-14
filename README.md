@@ -31,4 +31,4 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 
 ### 📝 License
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
